@@ -17,6 +17,11 @@
 
 ---
 
+## Screenshot
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 15, 2026, 07_10_38 AM" src="https://github.com/user-attachments/assets/4cadf4cb-a4f6-4bc9-ad78-97b3223e2cfd" />
+
+
 # 📌 Overview
 
 Paper Portfolio Website is a modern and visually appealing personal portfolio designed with a clean paper-inspired aesthetic. The website showcases projects, skills, achievements, and contact information through smooth animations and an intuitive user interface.
